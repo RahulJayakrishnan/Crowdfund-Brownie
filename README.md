@@ -1,2 +1,2 @@
 # Crowdfund-Brownie
-Python + Solidity code to deploy and test a crowdfunding contract
+Python + Solidity code to deploy crowdfunding contract
